@@ -3,3 +3,5 @@ djangorestframework
 pytz
 python-telegram-bot
 requests
+gunicorn
+django-heroku
